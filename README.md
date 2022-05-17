@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Jonatan Passo de Oliveira Brandão</h1>
 <p align="left">Systems analyst, coffee lover, technology enthusiast.</p>
 
-I currently work at <a href="https://www.vertticegr.com.br/">Vérttice Gerenciamento de Riscos</a> 
+I currently work at <a href="https://www.datum.inf.br/">Datum TI</a> 
   
 I'm currently focused on becoming a Full Cycle
 </h4>
