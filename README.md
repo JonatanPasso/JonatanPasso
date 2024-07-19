@@ -8,7 +8,7 @@ I'm currently focused on becoming a Full Cycle
 </h4>
 
 [<p align="left"> <img src="https://img.shields.io/badge/jonatan passo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/jonatan-passo-brandao/)
-[<img src="https://img.shields.io/badge/Fale Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></p>](https://wa.me/82998117449)
+[<img src="https://img.shields.io/badge/Fale Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></p>](https://wa.me/82993082419)
 
 <h3 align="left"><img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Technologies & Tools</h3>
 
