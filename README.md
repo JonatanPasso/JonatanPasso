@@ -21,7 +21,7 @@ I'm currently focused on becoming a Full Cycle
 <br>
 <br>
 
-<h3 align="left"><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> Add-ons</h3>
+<!--<h3 align="left"><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> Add-ons</h3>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatanpasso" alt="jonatanpasso" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanpasso&" alt="jonatanpasso" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanpasso&" alt="jonatanpasso" /></p>-->
