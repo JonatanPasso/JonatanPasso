@@ -1,27 +1,131 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatanpasso&label=Profile%20views&color=0e75b6&style=flat" alt="jonatanpasso" /> </p>
-<h1 align="left">Hi 👋, I'm Jonatan Passo de Oliveira Brandão</h1>
-<p align="left">Systems analyst, coffee lover, technology enthusiast.</p>
+<div align="center">
 
-I currently work at <a href="https://www.datum.inf.br/">Datum TI / Brasil Tecpar</a> 
-  
-I'm currently focused on becoming a Full Cycle
-</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=250&section=header&text=Jonatan%20Passo&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Construindo%20software%20h%C3%A1%20mais%20de%2015%20anos%2C%20uma%20linha%20de%20c%C3%B3digo%20de%20cada%20vez&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-[<p align="left"> <img src="https://img.shields.io/badge/jonatan passo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/jonatan-passo-brandao/)
-[<img src="https://img.shields.io/badge/Fale Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></p>](https://wa.me/62995485158)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jonatan+%F0%9F%91%8B;PHP+%2F+Laravel+%2F+React+%2F+PostgreSQL;Gosto+de+resolver+problemas+de+verdade;Caf%C3%A9+%C3%A9+parte+da+stack+%E2%98%95" alt="Typing SVG" />
 
-<h3 align="left"><img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> Technologies & Tools</h3>
-
-[<p align="left"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> ](https://getbootstrap.com)[<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> ](https://www.javascript.com/)[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> ]()[<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" /> ]()[<img src="	https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> ]()[<img src="	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> ]()[<img src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> ]()[<img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" /> ]()[<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> ]()
-  
-<h3 align="left"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"> GitHub Stats</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonatanpasso&show_icons=true&locale=en" alt="jonatanpasso" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatanpasso&show_icons=true&locale=en" alt="jonatanpasso" /></p>
-<br>
 <br>
 
-<!--<h3 align="left"><img class="emoji" alt="iphone" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png"> Add-ons</h3>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonatanpasso" alt="jonatanpasso" /></a> </p>
+<a href="https://www.linkedin.com/in/jonatan-passo-brandao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/62995485158"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/jonatanpasso"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Goi%C3%A2nia,%20Brasil-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatanpasso&" alt="jonatanpasso" /></p>-->
+</div>
+
+<br>
+
+## 👋 Um pouco sobre mim
+
+Sou **Jonatan Passo de Oliveira Brandão**, systems analyst e desenvolvedor PHP sênior de Goiânia. Comecei a programar há mais de 15 anos e, no meio do caminho, descobri que gosto tanto de escrever código quanto de organizar as pessoas e os processos ao redor dele.
+
+Hoje passo boa parte dos meus dias **liderando o desenvolvimento de TI**, mas ainda faço questão de estar com a mão na massa: arquitetando sistemas, revisando PRs, subindo em produção e resolvendo aquele bug chato que ninguém queria pegar. Já naveguei por setores bem diferentes entre si — **saúde, marketing multinível, gestão de risco e órgãos públicos** — e isso me ensinou que boa engenharia de software é sempre a mesma coisa por baixo: entender o problema de verdade antes de sair escrevendo código.
+
+Fora do trabalho, sou movido a café, gosto de simplificar o que é complexo e ainda acredito que a melhor arquitetura é aquela que a próxima pessoa consegue entender sem te ligar às 23h.
+
+<br>
+
+## 🧭 Como eu trabalho
+
+> Aprendi na prática que processo bom não é burocracia — é o que te permite ir rápido sem quebrar tudo.
+
+- 🔍 **Diagnóstico antes de solução** — entender o problema até o fim antes de escrever a primeira linha
+- 🧩 **Mudanças cirúrgicas** — prefiro evoluções aditivas a refatorações que quebram o que já funciona
+- 📐 **Arquitetura pensada para durar** — Request → Service → Repository, filas e cache onde fazem diferença real
+- 🤝 **Documentação como cuidado com o time** — o que não está documentado, não existe pro próximo que chegar
+- 🚀 **Entregar com confiança** — testar, revisar, só então subir
+
+<br>
+
+## 🛠️ Stack & ferramentas
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" />
+
+**Banco de dados & mensageria**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,redis,rabbitmq,kafka&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css&theme=dark" />
+
+**Infra & ferramentas**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,apache,git,jira,postman,linux&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Alguns projetos que me orgulham
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 draallynee.com.br
+Plataforma completa de agendamento e gestão de pacientes para um consultório de psicologia. Desde pagamento via PIX até contrato digital e videoatendimento — pensada para que a psicóloga só precisasse se preocupar com os pacientes, não com planilhas.
+
+`Laravel 11` `React 19` `Filament 3` `PostgreSQL` `n8n + Evolution API`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 CRM · A&S Assessoria
+MVP de uma plataforma de crédito e abertura de conta, com quatro front-ends diferentes conversando com um único backend. Auditoria imutável e conformidade com a LGPD desde o design, não como remendo depois.
+
+`Laravel 12` `PostgreSQL` `Redis` `Horizon` `Sanctum/Passport`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 Atividade no GitHub
+
+<!-- Gerado automaticamente pelo workflow .github/workflows/metrics.yml — sem depender de serviços externos instáveis -->
+<img src="./github-metrics.svg" width="100%"/>
+
+<br>
+
+## 🌱 No momento
+
+```
+const jonatan = {
+  focando_em: "arquiteturas Full Cycle e sistemas distribuídos",
+  aprendendo: "aprofundar em Kafka e observabilidade",
+  ouvindo: "podcast técnico com o café da manhã",
+  disponivel_para: "conversar sobre arquitetura, PHP moderno e boas práticas"
+};
+```
+
+<br>
+
+<div align="center">
+
+## 📫 Bora conversar?
+
+Sempre aberto a trocar ideia sobre arquitetura de software, boas práticas ou só falar de café.
+
+<a href="https://www.linkedin.com/in/jonatan-passo-brandao/"><img src="https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://wa.me/62995485158"><img src="https://img.shields.io/badge/Fale%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jonatanpasso&label=Visitas%20ao%20perfil&color=38BDF8&style=for-the-badge" alt="jonatanpasso" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%"/>
